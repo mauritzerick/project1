@@ -1,6 +1,8 @@
-Job Board - Ruby on Rails	
+# Project 1
 
-Web App Link: https://jobboardify.herokuapp.com
+## Job Board - Ruby on Rails	
+
+Access Project 1 Site: [CLICKHERE](https://jobboardify.herokuapp.com/) 
 
 General Assembly Project 1 - Ruby on Rails
 
@@ -33,7 +35,7 @@ List of implemented gems:
 
 Bugs list:
 
-1. Incomplete stripe implementation which lead a job posting errors
+1. Incomplete stripe implementation which lead to a job posting errors
 2. Failed to upload image/avatar when job posting
 3. Incomplete forgot password implementation
 
