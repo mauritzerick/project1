@@ -10,6 +10,9 @@ Date: 28 April 2021
 
 ### Main goal: Building first CRUD full-stack web application with Ruby on Rails and Heroku deployment.
 
+The basis of this web app is a job board for anyone looking to get hired can come and apply for position.
+On the other hand, if you are a user or company looking to post a job you can sign up for free and post a job with a fee .
+
 ### Main features:
 
 1. Encrypted user login for normal users and admin
@@ -44,4 +47,5 @@ Date: 28 April 2021
 1. A completed stripe payment method
 2. More user friendly and clean site
 3. Company’s logo when posting a job
+4. "Sort By" function
 
