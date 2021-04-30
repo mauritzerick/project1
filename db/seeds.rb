@@ -96,14 +96,6 @@ Job.create!([{
   title: "General Labourer",
   description: "We are seeking reliable Labourers for a long term role based locally in Townsville. Working for a fast-paced recycling plant that offers full-time hours, Monday to Friday.
 
-
-  About the role:
-  
-  Work on production and assembly lines
-  Sorting through materials suitable for recycling
-  Moving stock and conducting manual labour
-  Repetitive standing
-  General cleaning
   The perks of these positions:
   
   Great pay $30 per hour + penalties
